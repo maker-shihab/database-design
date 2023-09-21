@@ -2,15 +2,11 @@
 
 ### 1.1 What is a Database?
 
-``
 A database is like a digital warehouse where we store and organize information. It's a special place in a computer where we keep data, like names, numbers, and facts, so we can easily find and use them.
-``
 
 ### 1.2 Why Do We Use Databases?
 
-``
 We use databases to keep our information safe and organized. Think of it like a giant digital bookshelf. It helps us quickly find what we need and ensures that our data doesn't get mixed up or misplaced.
-``
 
 ### 1.3 How Does a Database Work?
 
@@ -28,20 +24,26 @@ We use databases to keep our information safe and organized. Think of it like a 
 
 - **Inventory Database:** A database used by stores to manage their stock of products, such as clothes or electronics.
 
+| Query Language                                   | DBMS                                |
+| ------------------------------------------------ | ----------------------------------- |
+| Used to communicate with database                | Database Management System          |
+| Give instruction for the dbms to manage database | A Software that manages database(s) |
+
+### Types of data?
+
+- **Relational**
+- **Non-relational**
 
 ## 2 Query Language
 
 ### 2.1 What is a Query Language?
-``
+
 A query language is a special way of talking to a computer or a database to ask it for information or perform actions. It's like having a conversation with a computer in a language it understands.
-``
+
+Imagine your data is like a big library full of books. Each book has lots of information, and you want to find specific details quickly. Query language is your detective tool.
+
 ### 2.2 Why Do We Use Query Languages?
-``
+
 We use query languages to communicate with computers or databases because they need specific instructions to find, sort, or change data. Instead of using regular words, we use a structured set of commands to make our requests.
-``
 
-
-| Query Language | DBMS |
-| --- | --- |
-| Used to communicate with database | Database Management System |
-| Give instruction for the dbms to manage database | A Software that manages database(s) |
+### How Does a Query Language Work?
